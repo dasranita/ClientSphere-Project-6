@@ -1,0 +1,1 @@
+export const metadata={title:'ClientSphere CRM'};export default function Layout({children}){return <html lang='en'><body style={{fontFamily:'Arial,sans-serif',margin:0,background:'#f5f7fb',color:'#17243a'}}>{children}</body></html>}
